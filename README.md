@@ -1,3 +1,3 @@
 # github_test_project
 this is a project for team collaboration test.
-Final automation test with issue 3
+Final automation test with issue3.
